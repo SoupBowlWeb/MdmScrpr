@@ -1,0 +1,19 @@
+{
+    "name": "dansoppelsa/mdm-scrpr",
+    "description": "Scrape Medium page for content",
+    "require": {
+        "symfony/dom-crawler": "^3.1",
+        "symfony/css-selector": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Dan Soppelsa",
+            "email": "dsoppelsa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MdmScrpr\\": "src/"
+        }
+    }
+}
