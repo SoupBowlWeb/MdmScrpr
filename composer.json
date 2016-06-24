@@ -1,5 +1,5 @@
 {
-    "name": "SoupBowlWeb/mdm-scrpr",
+    "name": "dansoppelsa/mdm-scrpr",
     "description": "Scrape Medium page for content",
     "require": {
         "symfony/dom-crawler": "^3.1",
